@@ -1,7 +1,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-#define DHT11_pin 6  //PD6
+#define DHT11_pin 2  //PD2
 
 void request();
 void response();
