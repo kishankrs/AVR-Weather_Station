@@ -1,3 +1,7 @@
+//**********************************************************
+//                    DHT11 Library
+//            Temperature and Humidity Sensor
+//**********************************************************
 #include <avr/io.h>
 #include <util/delay.h>
 

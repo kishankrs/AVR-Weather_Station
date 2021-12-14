@@ -1,3 +1,7 @@
+//**********************************************************
+//                    DHT11 Library
+//            Temperature and Humidity Sensor
+//**********************************************************
 #include "DHT11.h"
 
 void request()   //send start pulse to dht
