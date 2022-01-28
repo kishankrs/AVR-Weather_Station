@@ -2,7 +2,7 @@
  * DHT11.c
  *
  * Created: 27-11-2021 12.11.30 AM
- * Author : Gaurav
+ * Author : Gaurav & Kishan 
  */ 
 
 #define F_CPU 1000000UL
